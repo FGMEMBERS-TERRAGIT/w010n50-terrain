@@ -1,6 +1,8 @@
 FG Tile |  w010n50 Terrain for FGMEMBERS-TerraGIT
 -------------------------------------------------
 
+**DATA found at: https://gitlab.com/FGMEMBERS-TERRAGIT/w010n50-terrain**
+
 This terrain for FlightGear has been created to be distributed with FGMEMBERS-TERRAGIT. 
 
 The content of this Terrain for FlightGear scenery is covered under the GPL2+ License. Its usage requires
